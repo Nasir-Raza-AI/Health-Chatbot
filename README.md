@@ -29,8 +29,8 @@ A simple **AI-powered Health Chatbot** built using **Streamlit** and **OpenAI's 
 ---
 
 ## 📥 Installation
-git clone https://github.com/yourusername/HealthChatbotWebApp.git
-cd HealthChatbotWebApp
+git clone https://github.com/Nasir-Raza-AI/Health-Chatbot.git
+cd Health-Chatbot
 pip install -r requirements.txt
 
 ---
